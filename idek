@@ -18,4 +18,4 @@ client.on("message", msg=> {
  }
 });
 
-client.login("OTEzMTkyNDIxMzkzODU0NDc0.YZ66tw.EdRgcutFyspC620DkvlzA401VWs");
+client.login TOKEN
